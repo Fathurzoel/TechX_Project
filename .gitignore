@@ -1,0 +1,8 @@
+# File sementara
+*.tmp
+
+# File build
+build/
+
+# File editor
+.vscode/
